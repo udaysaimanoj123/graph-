@@ -1,0 +1,58 @@
+.front{
+    padding: 6% 10% 10% 15%;
+    /* position: relative; */
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+/* .nb{
+    position: fixed;
+} */
+
+body{
+    /* background-image: -webkit-linear-gradient(0deg, #43b5a0 0%, #88f3ff 100%); */
+}
+.tit{
+    padding: 0 45% 0 3%;
+}
+h1{
+    font-style: "Ubuntu";
+    font-weight: 700;
+    font-size: 3.5rem;
+    line-height: 1;
+}
+.navbar{
+    padding-bottom: 1.5rem;
+}
+
+.navbar-brand{
+    font-size: 2.5rem;
+    font-style: "Ubuntu";
+    font-weight: bold;
+}
+
+.nav-item{
+    font-size: 1.25rem;
+    font-style: "Ubuntu";
+    padding: 0 18px;
+    color: rgb(12, 12, 115);
+    text-decoration: none;
+  
+}
+
+.pd{
+    color: crimson;
+    font-weight: 800;
+    font-size: rem;
+}
+
+.c{
+    padding: 5% 2%;
+}
+
+.card-body{
+    text-align: center;
+}
